@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## :boy: about me
 
 hello!, my name **Bagus Ridho Rosfandy**
