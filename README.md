@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://64.media.tumblr.com/fa341f8921d3eb6f555f81ca127f4f04/526f79d0e90193b8-75/s400x600/e255355b053a8c65ce697b540f3c207026c861a5.gifv" height="300" width="300"/>
+   <img src="https://64.media.tumblr.com/5cb4d57cd68b34bcacf5cc3173ec60d2/31457f910df141ee-70/s540x810/e2d12e5a1ee94b8afa27f43913c9b70ffe898c89.gifv"/>
 </p>
 
 ## 👒 About me
