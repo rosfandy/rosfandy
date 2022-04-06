@@ -2,7 +2,7 @@
 
 hello!, my name **Bagus Ridho Rosfandy**
 
-## contact
+## Contact
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosfandy_)
 
@@ -16,6 +16,7 @@ hello!, my name **Bagus Ridho Rosfandy**
     <img src="https://img.icons8.com/dusk/50/php-logo.png"/>
 </p>
 
+## Stats
 ![Mesifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesifer&show_icons=true&theme=algolia)
 
 
