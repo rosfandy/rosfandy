@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://64.media.tumblr.com/fa341f8921d3eb6f555f81ca127f4f04/526f79d0e90193b8-75/s400x600/e255355b053a8c65ce697b540f3c207026c861a5.gifv" height="300" width="300"/>
+</p>
+
 ## :boy: about me
 
 hello!, my name **Bagus Ridho Rosfandy**
