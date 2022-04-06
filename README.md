@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## :boy: about me
+
+hello!, my name **Bagus Ridho Rosfandy**
+
+## contact
+
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosfandy_)
 
 <!-- **mesifer/mesifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
