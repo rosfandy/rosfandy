@@ -4,7 +4,7 @@
 
 ## 👒 About me
 
-Hello!, My Name **Bagus Ridho Rosfandy**. I'm Oplovers. Thanks
+Hello!, My Name **Bagus Ridho Rosfandy**. 
 
 ## Contact
 
