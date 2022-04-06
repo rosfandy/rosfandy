@@ -4,7 +4,7 @@
 
 ## :boy: about me
 
-hello!, my name **Bagus Ridho Rosfandy**
+hello!, my name **Bagus Ridho Rosfandy**. I'm currently waiting for the end chapter of One Piece.
 
 ## Contact
 
