@@ -4,7 +4,7 @@
 
 ## 👒 About me
 
-Hello!, My Name **Bagus Ridho Rosfandy**. 
+Hello!, My Name **Rosfandy**. 
 
 ## Contact
 
