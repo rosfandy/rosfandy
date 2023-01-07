@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
    <img src="https://64.media.tumblr.com/5cb4d57cd68b34bcacf5cc3173ec60d2/31457f910df141ee-70/s540x810/e2d12e5a1ee94b8afa27f43913c9b70ffe898c89.gif"/>
-</p>
+</p> -->
 
 ## 👒 About me
 
