@@ -4,7 +4,7 @@
 
 ## 👒 About me
 
-Hello!, My Name **Rosfandy**. 
+Hi !, My name is Bagus Ridho Rosfandy. I'm currently a college student at IT Major. I Love to write a code especially for Software Engineer and Software Develope. This is my Portfolio Page, hopely you can enjoy it !.    
 
 ## Contact
 
@@ -19,6 +19,9 @@ Hello!, My Name **Rosfandy**.
     <img src="https://img.icons8.com/color/50/00000/javascript--v2.png"/>
     <img src="https://img.icons8.com/dusk/50/php-logo.png"/>
 </p>
+
+## Current Project
+- [MOVIELINK](https://movielink.netlify.app/) - A trailer movie web made with ReactJS and Open API. You can visit this repository [movielink-react-app](https://github.com/mesifer/movielink-react-app) for more detail.
 
 ## Stats
 ![Mesifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesifer&show_icons=true&theme=algolia)
