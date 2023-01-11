@@ -4,7 +4,7 @@
 
 ## 👨‍🦰 About me
 
-Hi !✋ My name is Bagus Ridho Rosfandy. I'm currently a college student at IT Major. I Love to write a code especially for Software Engineer and Software Develope. This is my Portfolio Page, hopely you can enjoy it !.    
+Hi !✋ My name is Bagus Ridho Rosfandy. I'm currently a college student at IT Major. I Love to write a code especially for Software Engineer and Developing software. This is my Portfolio Page, hopely you can enjoy it !.    
 
 ## ✉️ Contact
 
