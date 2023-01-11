@@ -22,11 +22,10 @@ Hi !✋ My name is Bagus Ridho Rosfandy. I'm currently a college student at IT M
 </p>
 
 ## 💻 Current Project
-### Frontend
+### Frontend & Backend 
 - [MOVIELINK](https://movielink.netlify.app/) - A trailer movie web made with ReactJS and Open API. You can visit this repository [movielink-react-app](https://github.com/mesifer/movielink-react-app) for more detail.
 - [PENCARICUACA](https://pencari-cuaca.netlify.app/) - A simple weather tracker app. Visit [weather-tracker](https://github.com/rosfandy/weatherTracker) repository for detail.
-### Backend
-- coming soon
+- [PEEPAY](https://github.com/rosfandy/peepay-ewallet) - A Simple practice create payment API for Backend using Express and NodeJS.
 
 ### Machine Learning
 - [IDS](https://github.com/rosfandy/Three-Based-Intrution-Detection-System-with-KDD-Dataset) - Instructions Detection System with KDD Datasets using Python to prevent malicious traffic
