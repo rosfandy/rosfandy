@@ -32,6 +32,6 @@ Hi !✋ My name is Bagus Ridho Rosfandy. I'm currently a college student at IT M
 - [IDS](https://github.com/rosfandy/Three-Based-Intrution-Detection-System-with-KDD-Dataset) - Instructions Detection System with KDD Datasets using Python to prevent malicious traffic
 
 ## ✨ Stats
-![Mesifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesifer&show_icons=true&theme=algolia)
+![Mesifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosfandy&show_icons=true&theme=algolia)
 
 
