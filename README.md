@@ -9,7 +9,7 @@ Hi !✋ My name is Bagus Ridho Rosfandy. I'm currently a college student at IT M
 ## ✉️ Contact
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosfandy_)
-[![gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](bagusrosfandy@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagusrosfandy@gmail.com)
 
 ## 🔣 Current Language 
 
