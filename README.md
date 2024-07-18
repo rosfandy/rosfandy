@@ -28,8 +28,6 @@ Hi !✋ My name is Bagus Ridho Rosfandy. I'm currently a college student at IT M
 - [PENCARICUACA](https://pencari-cuaca.netlify.app/) - A simple weather tracker app. Visit [weather-tracker](https://github.com/rosfandy/weatherTracker) repository for detail.
 - [PEEPAY](https://github.com/rosfandy/peepay-ewallet) - A Simple practice create payment API for Backend using Express and NodeJS.
 - [Point-Of-Sales](https://github.com/rosfandy/point-of-sales) - Desktop App for cashier management to record purchase history and calculate profit and loss. **Notes: This application still has a lot of bugs and needs to be fixed 
-### Machine Learning
-- [IDS](https://github.com/rosfandy/Three-Based-Intrution-Detection-System-with-KDD-Dataset) - Instructions Detection System with KDD Datasets using Python to prevent malicious traffic
 
 ## ✨ Stats
 ![Mesifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosfandy&show_icons=true&theme=algolia)
