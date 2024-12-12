@@ -2,15 +2,6 @@
    <img src="https://64.media.tumblr.com/5cb4d57cd68b34bcacf5cc3173ec60d2/31457f910df141ee-70/s540x810/e2d12e5a1ee94b8afa27f43913c9b70ffe898c89.gif"/>
 </p>
 
-## 👨‍🦰 About me
-
-Hi !✋ My name is Bagus Ridho Rosfandy. I'm currently a college student at IT Major. I Love to write a code especially for Software Engineer and Developing software. This is my Portfolio Page, hopely you can enjoy it !.    
-
-## ✉️ Contact
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosfandy_)
-[![gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagusrosfandy@gmail.com)
-
 ## 🔣 Current Language 
 
 <p align="center">
