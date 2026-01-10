@@ -28,6 +28,6 @@
 <!-- Stats -->
 <hr/>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosfandy&theme=radical" />
+    <img src="https://rosfandy-stats.vercel.app/api?username=rosfandy&theme=tokyonight" />
 </div>
 
