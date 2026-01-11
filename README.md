@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <p>Ngoding enthusiasm</p>
+  <!-- <p>Ngoding enthusiasm</p> -->
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
@@ -26,8 +26,8 @@
 
 
 <!-- Stats -->
-<hr/>
+<!-- <hr/>
 <div align="center">
     <img src="https://rosfandy-stats.vercel.app/api?username=rosfandy&theme=tokyonight" />
 </div>
-
+ -->
