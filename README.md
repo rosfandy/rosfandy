@@ -31,7 +31,7 @@
     <img src="https://rosfandy-stats.vercel.app/api?username=rosfandy&theme=tokyonight" />
 </div>
  -->
-## Profie
+## Profile
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosfandy&theme=tokyonight" alt="Profile Details" />
 
 ## Activity Stats
