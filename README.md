@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/9JgRRliqRv8AAAAj/penguins-penguin.gif" />
 </div>
 
-<h3 align="center">Welcome to my space <3</h3>
+<h3 align="center">Welcome to my space</h3>
 
 
 <div align="center">
